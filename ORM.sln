@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperApi", "DapperApi\DapperApi.csproj", "{23331EF1-E275-469A-9562-3AF233CE7F84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoApi", "AdoApi\AdoApi.csproj", "{8459B4F5-6D2F-4C50-9008-FE2F36386CAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkApi", "EntityFrameworkApi\EntityFrameworkApi.csproj", "{83CE4CAA-F472-4644-AA78-D89ACE8683F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23331EF1-E275-469A-9562-3AF233CE7F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23331EF1-E275-469A-9562-3AF233CE7F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23331EF1-E275-469A-9562-3AF233CE7F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23331EF1-E275-469A-9562-3AF233CE7F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8459B4F5-6D2F-4C50-9008-FE2F36386CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8459B4F5-6D2F-4C50-9008-FE2F36386CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8459B4F5-6D2F-4C50-9008-FE2F36386CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8459B4F5-6D2F-4C50-9008-FE2F36386CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83CE4CAA-F472-4644-AA78-D89ACE8683F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83CE4CAA-F472-4644-AA78-D89ACE8683F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83CE4CAA-F472-4644-AA78-D89ACE8683F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83CE4CAA-F472-4644-AA78-D89ACE8683F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
