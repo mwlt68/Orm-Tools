@@ -132,3 +132,4 @@
 /Users/mgurhp/Projects/Net/Test/ORM/EntityFrameworkApi/obj/Debug/net8.0/EntityFrameworkApi.pdb
 /Users/mgurhp/Projects/Net/Test/ORM/EntityFrameworkApi/obj/Debug/net8.0/EntityFrameworkApi.genruntimeconfig.cache
 /Users/mgurhp/Projects/Net/Test/ORM/EntityFrameworkApi/obj/Debug/net8.0/ref/EntityFrameworkApi.dll
+/Users/mgurhp/Projects/Net/Test/ORM/EntityFrameworkApi/obj/Debug/net8.0/EntityFrameworkApi.sourcelink.json

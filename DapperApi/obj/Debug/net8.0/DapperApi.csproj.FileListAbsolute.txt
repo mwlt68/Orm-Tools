@@ -34,3 +34,4 @@
 /Users/mgurhp/Projects/Net/Test/ORM/DapperApi/obj/Debug/net8.0/DapperApi.pdb
 /Users/mgurhp/Projects/Net/Test/ORM/DapperApi/obj/Debug/net8.0/DapperApi.genruntimeconfig.cache
 /Users/mgurhp/Projects/Net/Test/ORM/DapperApi/obj/Debug/net8.0/ref/DapperApi.dll
+/Users/mgurhp/Projects/Net/Test/ORM/DapperApi/obj/Debug/net8.0/DapperApi.sourcelink.json

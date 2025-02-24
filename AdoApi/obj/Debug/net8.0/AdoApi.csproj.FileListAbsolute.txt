@@ -33,3 +33,4 @@
 /Users/mgurhp/Projects/Net/Test/ORM/AdoApi/obj/Debug/net8.0/AdoApi.pdb
 /Users/mgurhp/Projects/Net/Test/ORM/AdoApi/obj/Debug/net8.0/AdoApi.genruntimeconfig.cache
 /Users/mgurhp/Projects/Net/Test/ORM/AdoApi/obj/Debug/net8.0/ref/AdoApi.dll
+/Users/mgurhp/Projects/Net/Test/ORM/AdoApi/obj/Debug/net8.0/AdoApi.sourcelink.json
